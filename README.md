@@ -4,13 +4,17 @@ In this project server is gonna have multiple server threads, whose main goal is
 # Summary
 
 # Execution 
-1) For server's execution: 
+1) For server's execution:
+
 **bash scripts/script1.sh Number_Of_Query_Port Number_Of_Statistics_Port Number_Of_Threads BufferSize**
 2) For master's execution:
+
 **bash scripts/script2.sh ServerIP Number_Of_Statistics_Port BufferSize Number_Of_Workers Name_Of_Dir(ex. dirs/main_dir)**
 3) For client's execution
+
 **bash scripts/script3.sh Number_Of_Query_Port ServerIP Number_Of_Workers Name_Of_Query_File(ex. infos/queries)**
 4) For cleaning:
+
 **bash scripts/script4.sh**
 
 # query_file.py 
