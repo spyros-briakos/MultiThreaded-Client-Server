@@ -3,6 +3,8 @@ In this project server is gonna have multiple server threads, whose main goal is
 
 # Summary
 
+The main idea of this project is that Server firstly runs and then accesively program called 'Master' does, whose main goal is to help Server, because Master has children processes, called Workers, where each Worker plays the role of 'mini-server' in order to help with answering Server's queries. Then the only remaining program is Client, who is going to make multiple queries to Server (with help of client-threads). The result is to see in terminal queries-answers in extremelly quick time.
+
 # Execution 
 
 1) For server's execution:
