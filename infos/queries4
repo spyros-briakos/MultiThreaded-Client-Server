@@ -1,0 +1,1000 @@
+/diseaseFrequency SARSCOV-2 13-05-1970 27-07-1977 France 
+/topk-AgeRanges 4 France FLU-2018 07-03-2018 11-10-2019 
+/topk-AgeRanges 1 Greece EVD 16-08-1998 08-07-2008 
+/searchPatientRecord 4971 
+/numPatientDischarges COVID-2019 02-04-1917 17-05-2013 Canada 
+/numPatientDischarges MERS-COV 17-05-1909 12-05-2005 Spain 
+/numPatientDischarges FLU-2018 03-10-1972 25-08-1980  
+/numPatientDischarges EVD 09-05-1915 16-03-1918 Italy 
+/searchPatientRecord 4476 
+/diseaseFrequency MERS-COV 28-07-1940 03-06-1957  
+/numPatientDischarges SARS-1 28-06-1989 23-04-2008  
+/diseaseFrequency MERS-COV 03-06-1983 24-10-2006  
+/numPatientDischarges SARS-1 12-01-1971 30-09-1980 Germany 
+/diseaseFrequency EVD 30-06-1975 27-10-1995  
+/topk-AgeRanges 4 Greece COVID-2019 04-06-1922 31-12-1934 
+/numPatientDischarges SARS-1 31-10-1902 10-08-1980  
+/diseaseFrequency SARSCOV-2 24-12-1988 30-04-2009  
+/diseaseFrequency EVD 19-07-1944 28-06-2011 Germany 
+/numPatientDischarges SARSCOV-2 11-11-1953 27-05-2019  
+/numPatientDischarges COVID-2019 18-06-1989 26-02-2009  
+/diseaseFrequency FLU-2018 19-02-2011 16-02-2017 Sweden 
+/numPatientDischarges MERS-COV 23-07-1925 16-02-1979 Poland 
+/searchPatientRecord 8493 
+/numPatientAdmissions COVID-2019 17-05-1923 07-08-1972 France 
+/numPatientAdmissions FLU-2018 09-12-1948 04-03-1980 Germany 
+/topk-AgeRanges 3 Greece EVD 22-01-1933 10-05-1986 
+/numPatientAdmissions COVID-2019 16-10-1943 07-11-2001 Germany 
+/numPatientAdmissions SARS-1 30-12-1946 11-02-1947  
+/numPatientDischarges EVD 14-05-1969 24-12-1976 Poland 
+/numPatientDischarges MERS-COV 26-05-1920 25-09-1937 Sweden 
+/topk-AgeRanges 1 Germany FLU-2018 01-03-1940 22-03-1986 
+/diseaseFrequency COVID-2019 28-07-1942 22-11-1973 Spain 
+/diseaseFrequency SARSCOV-2 19-01-1920 29-09-2016  
+/numPatientAdmissions FLU-2018 29-03-1977 22-12-2001  
+/numPatientAdmissions EVD 21-07-1996 17-05-2012 Sweden 
+/numPatientAdmissions SARSCOV-2 14-10-1991 11-01-2019 Poland 
+/diseaseFrequency SARS-1 23-10-1968 09-02-1986 Austria 
+/searchPatientRecord 3336 
+/topk-AgeRanges 3 Poland SARS-1 16-11-2013 05-11-2016 
+/searchPatientRecord 4000 
+/searchPatientRecord 1520 
+/numPatientDischarges SARSCOV-2 29-11-1971 02-03-2002  
+/numPatientDischarges FLU-2018 02-04-1926 28-09-1966  
+/searchPatientRecord 3838 
+/searchPatientRecord 9214 
+/numPatientAdmissions SARSCOV-2 27-09-1903 12-02-1921 Canada 
+/diseaseFrequency MERS-COV 21-09-1997 21-11-2006  
+/numPatientAdmissions SARSCOV-2 21-12-2014 25-05-2018 Greece 
+/searchPatientRecord 6262 
+/numPatientAdmissions EVD 19-08-1964 18-08-1986 Italy 
+/numPatientDischarges EVD 11-07-1936 03-06-1977 Poland 
+/diseaseFrequency MERS-COV 16-03-1921 08-08-1924  
+/numPatientAdmissions MERS-COV 28-05-1936 02-02-1937  
+/topk-AgeRanges 1 Poland SARS-1 29-01-1938 28-10-2012 
+/diseaseFrequency SARSCOV-2 09-01-1957 22-12-2004  
+/diseaseFrequency FLU-2018 28-03-1984 10-07-1998 Canada 
+/numPatientDischarges EVD 23-06-1966 03-11-1991 Spain 
+/searchPatientRecord 8065 
+/topk-AgeRanges 4 Greece MERS-COV 11-12-2019 19-12-2019 
+/searchPatientRecord 4420 
+/searchPatientRecord 1305 
+/topk-AgeRanges 2 Canada EVD 05-09-1938 08-02-1954 
+/topk-AgeRanges 2 Sweden FLU-2018 12-09-1921 27-07-1982 
+/searchPatientRecord 6290 
+/numPatientDischarges SARSCOV-2 12-03-1993 14-05-2014  
+/topk-AgeRanges 2 Spain EVD 17-11-2011 29-08-2019 
+/diseaseFrequency MERS-COV 31-07-1997 20-07-2007  
+/diseaseFrequency COVID-2019 20-10-1997 12-05-2015  
+/numPatientDischarges MERS-COV 19-06-1992 22-04-2004  
+/numPatientDischarges SARSCOV-2 23-07-1942 04-07-1995 Germany 
+/numPatientDischarges MERS-COV 16-02-1941 23-02-2005 France 
+/numPatientDischarges MERS-COV 11-11-1983 23-02-1988 Russia 
+/diseaseFrequency FLU-2018 05-07-1935 30-01-2009 Greece 
+/searchPatientRecord 464 
+/numPatientAdmissions SARSCOV-2 26-03-1931 03-05-1946 Poland 
+/diseaseFrequency MERS-COV 20-10-1961 20-01-2006 Germany 
+/topk-AgeRanges 3 Spain MERS-COV 15-05-1920 03-02-1975 
+/topk-AgeRanges 2 Sweden MERS-COV 31-07-2004 31-03-2007 
+/numPatientAdmissions SARSCOV-2 31-08-1938 24-02-1942  
+/numPatientAdmissions COVID-2019 12-12-1976 04-08-1986 Sweden 
+/searchPatientRecord 9375 
+/searchPatientRecord 5464 
+/numPatientAdmissions COVID-2019 11-09-1934 21-08-2019  
+/numPatientDischarges COVID-2019 25-03-1907 12-05-1952 Canada 
+/topk-AgeRanges 4 Sweden SARS-1 10-11-1936 18-07-2001 
+/searchPatientRecord 1959 
+/diseaseFrequency FLU-2018 19-09-1905 20-05-2003 Canada 
+/numPatientDischarges COVID-2019 30-11-1990 25-04-2017 Spain 
+/numPatientDischarges SARSCOV-2 25-12-1967 13-07-1981  
+/diseaseFrequency SARS-1 15-11-1981 28-11-2015 Austria 
+/searchPatientRecord 4612 
+/topk-AgeRanges 2 Spain EVD 01-08-2012 20-08-2012 
+/topk-AgeRanges 3 Austria MERS-COV 18-03-1979 17-10-1986 
+/topk-AgeRanges 2 Russia MERS-COV 23-07-2015 08-07-2019 
+/numPatientDischarges COVID-2019 13-06-1908 26-10-2001  
+/numPatientDischarges SARS-1 07-03-2012 08-06-2017 Canada 
+/searchPatientRecord 8553 
+/topk-AgeRanges 1 Germany SARS-1 23-07-1997 06-05-2017 
+/topk-AgeRanges 3 Russia SARS-1 21-07-1975 10-07-2003 
+/topk-AgeRanges 1 Germany FLU-2018 25-08-1943 19-10-1995 
+/diseaseFrequency MERS-COV 11-05-1916 13-01-1950  
+/diseaseFrequency MERS-COV 06-01-1964 26-09-1965 Spain 
+/diseaseFrequency FLU-2018 11-04-1922 20-10-1974 Poland 
+/diseaseFrequency MERS-COV 14-02-1964 30-01-2008  
+/searchPatientRecord 1680 
+/numPatientAdmissions FLU-2018 22-09-1978 10-01-1988  
+/diseaseFrequency SARS-1 16-07-2014 15-07-2019  
+/topk-AgeRanges 1 Italy FLU-2018 06-04-1940 11-06-1946 
+/diseaseFrequency EVD 02-01-1943 17-03-1949 Sweden 
+/topk-AgeRanges 3 Italy EVD 02-02-2004 23-02-2014 
+/numPatientAdmissions SARSCOV-2 20-03-1986 30-04-2008 Russia 
+/numPatientDischarges COVID-2019 11-05-1959 24-10-2004  
+/diseaseFrequency COVID-2019 05-04-1977 24-06-1995 Russia 
+/numPatientDischarges MERS-COV 18-12-1931 29-11-1965 Italy 
+/searchPatientRecord 6694 
+/numPatientAdmissions EVD 20-05-1915 25-06-2008  
+/numPatientDischarges COVID-2019 04-05-1941 27-12-1966 Austria 
+/topk-AgeRanges 4 Russia SARSCOV-2 02-05-1999 05-02-2019 
+/numPatientAdmissions MERS-COV 14-10-1938 07-04-1954 France 
+/topk-AgeRanges 1 Germany COVID-2019 12-06-1968 09-05-1989 
+/topk-AgeRanges 4 Italy EVD 02-03-1937 31-10-2016 
+/topk-AgeRanges 4 Poland SARS-1 04-01-1939 29-12-2008 
+/diseaseFrequency EVD 12-03-1913 24-01-1935 Poland 
+/numPatientDischarges MERS-COV 10-08-1979 28-10-2001  
+/searchPatientRecord 1333 
+/numPatientAdmissions EVD 27-06-2010 23-08-2015 Russia 
+/diseaseFrequency MERS-COV 05-03-1947 23-08-2014 Russia 
+/numPatientAdmissions COVID-2019 30-09-1954 26-10-1958  
+/searchPatientRecord 1157 
+/numPatientDischarges MERS-COV 14-03-1926 04-02-1953 Poland 
+/topk-AgeRanges 4 Sweden FLU-2018 18-10-1993 20-03-2009 
+/topk-AgeRanges 1 Italy SARSCOV-2 11-06-1960 04-08-2005 
+/topk-AgeRanges 1 Spain SARS-1 29-09-1933 07-04-1968 
+/numPatientAdmissions SARS-1 19-01-1962 28-02-1980 Italy 
+/topk-AgeRanges 4 Russia COVID-2019 20-02-1911 12-10-1950 
+/searchPatientRecord 2698 
+/searchPatientRecord 2040 
+/searchPatientRecord 4921 
+/topk-AgeRanges 1 Spain COVID-2019 10-12-1912 18-01-2006 
+/diseaseFrequency FLU-2018 29-11-1949 26-07-2011 Germany 
+/searchPatientRecord 7427 
+/diseaseFrequency MERS-COV 15-08-1927 04-11-2018 Poland 
+/diseaseFrequency COVID-2019 23-09-1977 20-04-1992  
+/topk-AgeRanges 3 Spain COVID-2019 23-11-1903 18-08-1961 
+/diseaseFrequency SARS-1 26-10-1930 02-01-1972  
+/numPatientAdmissions FLU-2018 16-11-1992 18-01-2013  
+/searchPatientRecord 4868 
+/diseaseFrequency SARSCOV-2 29-12-1923 22-04-1970 Greece 
+/numPatientDischarges MERS-COV 12-04-1973 11-09-2005 Greece 
+/numPatientAdmissions SARS-1 19-03-2013 11-01-2015 Greece 
+/searchPatientRecord 201 
+/diseaseFrequency SARS-1 27-11-2017 29-09-2019 Germany 
+/diseaseFrequency EVD 18-06-1928 12-09-1986 Italy 
+/numPatientDischarges SARSCOV-2 30-05-1936 26-04-1983 Italy 
+/searchPatientRecord 9148 
+/diseaseFrequency SARS-1 18-08-1920 30-11-1930 Austria 
+/numPatientDischarges COVID-2019 25-09-1983 20-09-2004 France 
+/numPatientAdmissions SARS-1 13-11-1931 16-01-1940 Sweden 
+/topk-AgeRanges 3 Spain MERS-COV 16-08-1928 16-09-1995 
+/searchPatientRecord 6293 
+/topk-AgeRanges 4 Poland FLU-2018 28-11-1969 16-05-1979 
+/diseaseFrequency FLU-2018 30-03-1907 21-05-1960 Greece 
+/numPatientAdmissions FLU-2018 24-03-1983 28-06-2011 Greece 
+/diseaseFrequency SARS-1 26-12-1928 03-11-2002  
+/diseaseFrequency MERS-COV 08-07-2016 02-01-2019  
+/diseaseFrequency COVID-2019 09-04-2012 13-12-2015 Austria 
+/searchPatientRecord 8831 
+/diseaseFrequency SARS-1 08-01-1908 31-08-1933  
+/topk-AgeRanges 2 Spain SARSCOV-2 23-08-2009 21-11-2009 
+/topk-AgeRanges 4 Germany COVID-2019 07-01-1905 30-11-1994 
+/numPatientAdmissions EVD 26-08-1932 27-05-2018  
+/numPatientAdmissions COVID-2019 06-03-1997 14-03-2010 Italy 
+/searchPatientRecord 2656 
+/topk-AgeRanges 4 Canada COVID-2019 09-12-1963 04-12-2006 
+/searchPatientRecord 9461 
+/diseaseFrequency SARS-1 22-03-1972 02-08-1974  
+/searchPatientRecord 6906 
+/topk-AgeRanges 1 Canada SARS-1 10-04-1938 18-01-1965 
+/numPatientDischarges COVID-2019 29-11-1909 20-04-1916  
+/searchPatientRecord 5116 
+/numPatientAdmissions SARSCOV-2 30-08-1927 08-01-1934  
+/numPatientAdmissions SARSCOV-2 08-01-2019 10-01-2019 Russia 
+/numPatientAdmissions MERS-COV 02-12-1937 23-05-1994 France 
+/topk-AgeRanges 3 Italy FLU-2018 06-12-1984 12-01-1997 
+/searchPatientRecord 8722 
+/numPatientDischarges SARSCOV-2 14-07-2005 04-01-2008 Greece 
+/numPatientAdmissions SARS-1 27-05-2016 27-11-2017  
+/numPatientDischarges MERS-COV 23-11-2001 19-01-2017  
+/topk-AgeRanges 2 Austria SARS-1 24-03-1971 27-10-1979 
+/numPatientDischarges COVID-2019 11-07-1908 24-12-2019  
+/numPatientDischarges SARS-1 25-06-1901 12-08-2008  
+/diseaseFrequency EVD 25-01-1902 01-12-1978  
+/searchPatientRecord 6558 
+/numPatientAdmissions EVD 30-04-1987 20-07-1988  
+/searchPatientRecord 8186 
+/topk-AgeRanges 3 France COVID-2019 28-09-1944 25-08-1984 
+/numPatientDischarges MERS-COV 21-01-1915 21-08-1990 Poland 
+/topk-AgeRanges 1 Canada FLU-2018 28-01-1916 14-05-2009 
+/numPatientDischarges SARS-1 04-07-1907 09-05-1983  
+/diseaseFrequency SARSCOV-2 10-10-1954 25-11-1959 Austria 
+/numPatientDischarges COVID-2019 21-10-1970 15-12-1998 Sweden 
+/numPatientAdmissions SARSCOV-2 30-10-1969 19-09-1986  
+/numPatientDischarges SARSCOV-2 06-11-2015 05-12-2016  
+/diseaseFrequency COVID-2019 02-05-1983 22-03-2018  
+/topk-AgeRanges 4 Italy SARS-1 02-01-1904 22-11-1998 
+/searchPatientRecord 6303 
+/searchPatientRecord 3276 
+/topk-AgeRanges 1 Austria FLU-2018 30-01-1984 09-10-2019 
+/numPatientAdmissions EVD 15-09-2005 13-10-2008  
+/diseaseFrequency EVD 30-01-1991 24-05-2009  
+/diseaseFrequency EVD 25-11-2007 12-01-2008  
+/numPatientDischarges MERS-COV 16-02-1945 08-10-1988 Sweden 
+/numPatientAdmissions EVD 23-09-1910 03-11-1968  
+/searchPatientRecord 3049 
+/numPatientAdmissions FLU-2018 13-08-1943 14-09-1981 Greece 
+/numPatientAdmissions SARS-1 14-12-1933 28-02-2002  
+/diseaseFrequency FLU-2018 17-06-1953 24-01-1962 Spain 
+/searchPatientRecord 5014 
+/numPatientAdmissions FLU-2018 06-11-1961 09-04-1988 Canada 
+/numPatientAdmissions SARS-1 06-04-1906 29-07-1928 Greece 
+/diseaseFrequency SARSCOV-2 02-02-1970 16-12-1985  
+/numPatientAdmissions COVID-2019 21-10-1940 19-07-1979 France 
+/numPatientDischarges SARSCOV-2 13-02-1994 22-09-1994 Austria 
+/diseaseFrequency SARS-1 28-04-1920 18-12-2005  
+/numPatientAdmissions SARS-1 04-03-2007 11-12-2010 Russia 
+/numPatientAdmissions SARSCOV-2 21-03-2009 25-08-2015  
+/numPatientDischarges MERS-COV 12-01-1907 25-04-1987 Russia 
+/searchPatientRecord 9260 
+/numPatientDischarges EVD 01-08-1964 31-08-1973 Spain 
+/searchPatientRecord 4513 
+/numPatientDischarges SARS-1 08-05-1986 18-02-1989 Sweden 
+/topk-AgeRanges 2 Russia MERS-COV 02-05-1923 17-12-1931 
+/numPatientAdmissions SARSCOV-2 17-10-1930 10-01-1935  
+/numPatientDischarges COVID-2019 20-09-2011 17-06-2019  
+/searchPatientRecord 9706 
+/numPatientDischarges MERS-COV 05-01-1944 08-10-1962 Austria 
+/numPatientDischarges SARSCOV-2 07-11-1966 05-11-1973 Germany 
+/searchPatientRecord 4419 
+/numPatientAdmissions EVD 19-04-1944 09-06-2005 Greece 
+/topk-AgeRanges 1 Sweden EVD 30-01-2005 29-06-2008 
+/numPatientAdmissions SARS-1 26-07-2004 10-09-2018  
+/searchPatientRecord 1251 
+/numPatientDischarges SARSCOV-2 03-06-1917 28-02-2011 Germany 
+/searchPatientRecord 1575 
+/diseaseFrequency MERS-COV 28-03-2000 06-12-2010  
+/diseaseFrequency EVD 17-09-2015 10-01-2019  
+/diseaseFrequency SARSCOV-2 18-12-2012 21-12-2019 Greece 
+/numPatientDischarges COVID-2019 22-09-1986 06-09-2017  
+/numPatientAdmissions EVD 14-09-1940 07-09-1996 Germany 
+/diseaseFrequency SARS-1 02-06-1943 30-03-1984  
+/numPatientDischarges SARS-1 05-10-2006 10-09-2011  
+/numPatientDischarges FLU-2018 06-10-1941 20-04-1992  
+/numPatientAdmissions FLU-2018 29-02-1952 13-10-1970 Canada 
+/numPatientAdmissions EVD 28-10-1939 22-03-1966 France 
+/numPatientAdmissions SARSCOV-2 21-03-1996 28-04-1997  
+/numPatientDischarges COVID-2019 03-11-2010 06-07-2019  
+/topk-AgeRanges 1 Italy EVD 21-08-1905 25-10-1945 
+/searchPatientRecord 8462 
+/diseaseFrequency SARS-1 18-06-1950 10-07-1972 Canada 
+/diseaseFrequency MERS-COV 25-08-1972 29-11-1990  
+/numPatientAdmissions MERS-COV 09-01-1936 30-05-2008 Spain 
+/numPatientAdmissions EVD 23-12-2007 20-09-2019  
+/diseaseFrequency COVID-2019 13-06-1963 15-12-1993  
+/searchPatientRecord 7358 
+/numPatientAdmissions FLU-2018 22-02-2016 24-06-2016 Poland 
+/numPatientDischarges MERS-COV 10-03-1910 03-11-1978 Russia 
+/searchPatientRecord 5366 
+/topk-AgeRanges 4 Spain SARSCOV-2 05-05-1914 12-05-1946 
+/searchPatientRecord 3697 
+/topk-AgeRanges 4 Greece EVD 06-12-1950 05-05-2003 
+/searchPatientRecord 3978 
+/numPatientDischarges FLU-2018 04-02-2017 19-10-2019  
+/topk-AgeRanges 2 Sweden SARSCOV-2 28-04-1971 20-10-1988 
+/numPatientAdmissions FLU-2018 18-08-1980 28-02-1988  
+/numPatientAdmissions EVD 29-12-1910 26-03-1919 Austria 
+/numPatientAdmissions SARSCOV-2 27-01-1933 28-05-1952  
+/numPatientAdmissions EVD 14-11-2010 05-01-2016 France 
+/searchPatientRecord 5453 
+/searchPatientRecord 7538 
+/numPatientAdmissions SARSCOV-2 30-07-1934 01-11-2015 Germany 
+/diseaseFrequency FLU-2018 20-09-2011 17-02-2012 Greece 
+/diseaseFrequency FLU-2018 26-07-1954 18-06-2003  
+/numPatientDischarges COVID-2019 20-03-1982 01-10-1993 Sweden 
+/numPatientAdmissions COVID-2019 29-07-1901 12-08-1950  
+/searchPatientRecord 6439 
+/searchPatientRecord 7920 
+/diseaseFrequency SARS-1 15-03-1979 03-03-1996  
+/numPatientAdmissions EVD 07-09-2011 12-08-2014 France 
+/numPatientDischarges FLU-2018 22-11-1950 15-03-1967  
+/topk-AgeRanges 2 Canada SARS-1 21-12-1966 13-11-1974 
+/numPatientDischarges MERS-COV 09-07-2001 21-11-2018  
+/topk-AgeRanges 3 France FLU-2018 15-11-1937 03-01-1970 
+/diseaseFrequency COVID-2019 29-04-1935 08-11-2004 France 
+/searchPatientRecord 7129 
+/searchPatientRecord 3337 
+/numPatientAdmissions SARSCOV-2 22-06-2008 03-02-2011 Spain 
+/numPatientAdmissions EVD 27-09-1938 15-10-2013 Russia 
+/numPatientDischarges EVD 22-06-1991 24-06-2012 Greece 
+/numPatientAdmissions MERS-COV 21-09-2010 03-11-2016  
+/numPatientAdmissions FLU-2018 30-04-1992 20-04-2014 Germany 
+/searchPatientRecord 3019 
+/topk-AgeRanges 4 Canada EVD 20-11-1925 22-08-2000 
+/diseaseFrequency SARSCOV-2 18-03-2014 23-08-2016  
+/topk-AgeRanges 1 Spain FLU-2018 01-03-1957 17-05-1986 
+/searchPatientRecord 5369 
+/numPatientAdmissions EVD 23-09-2008 02-07-2011  
+/topk-AgeRanges 3 Germany COVID-2019 30-12-1913 23-01-1958 
+/diseaseFrequency EVD 01-09-1921 31-03-1990 Spain 
+/diseaseFrequency MERS-COV 14-07-2009 25-05-2012  
+/searchPatientRecord 8822 
+/numPatientAdmissions EVD 26-05-1951 10-08-2011  
+/numPatientAdmissions MERS-COV 21-02-1957 17-11-1973 Spain 
+/diseaseFrequency FLU-2018 29-08-1971 05-11-1995  
+/searchPatientRecord 3274 
+/topk-AgeRanges 4 Sweden FLU-2018 02-07-1982 13-06-2007 
+/topk-AgeRanges 4 Russia MERS-COV 11-03-1976 15-12-1996 
+/numPatientAdmissions SARS-1 17-08-1973 06-11-2010  
+/topk-AgeRanges 3 Austria FLU-2018 19-11-1904 26-10-1971 
+/searchPatientRecord 2537 
+/searchPatientRecord 3678 
+/diseaseFrequency SARSCOV-2 30-04-1940 30-07-2002 Italy 
+/numPatientAdmissions EVD 20-12-1973 04-02-1975  
+/topk-AgeRanges 1 Germany FLU-2018 02-12-1948 25-04-1953 
+/diseaseFrequency FLU-2018 13-08-1949 14-04-1960 Poland 
+/diseaseFrequency COVID-2019 14-11-1987 17-03-1994 Russia 
+/numPatientDischarges SARSCOV-2 27-03-2008 25-03-2011 Canada 
+/topk-AgeRanges 1 Poland EVD 23-12-1969 10-02-1997 
+/diseaseFrequency EVD 08-06-2019 24-06-2019 Sweden 
+/numPatientAdmissions MERS-COV 23-01-1937 01-02-1979  
+/diseaseFrequency COVID-2019 07-11-1935 08-04-1937  
+/topk-AgeRanges 3 Canada SARS-1 08-11-1959 28-06-1982 
+/numPatientDischarges EVD 22-02-1970 31-05-1994  
+/numPatientAdmissions SARSCOV-2 07-07-1911 23-04-2015 Russia 
+/topk-AgeRanges 4 Russia COVID-2019 17-05-1933 11-01-2018 
+/searchPatientRecord 5762 
+/diseaseFrequency EVD 10-12-1995 25-08-2014  
+/diseaseFrequency FLU-2018 28-08-1926 25-12-2019 Austria 
+/topk-AgeRanges 3 Italy FLU-2018 26-12-1956 17-07-2015 
+/diseaseFrequency COVID-2019 08-01-1951 05-09-2019 Sweden 
+/diseaseFrequency SARSCOV-2 21-10-1976 14-11-2013  
+/searchPatientRecord 699 
+/numPatientDischarges SARS-1 18-08-2016 07-04-2018  
+/diseaseFrequency EVD 28-09-1989 26-05-2004  
+/diseaseFrequency EVD 02-12-1986 25-01-2014  
+/numPatientDischarges SARSCOV-2 16-05-1952 19-10-2003 Spain 
+/numPatientDischarges SARS-1 29-05-1988 11-04-1997  
+/numPatientDischarges COVID-2019 21-10-1973 18-09-1980  
+/numPatientAdmissions MERS-COV 02-03-1916 06-02-1988 France 
+/numPatientDischarges SARSCOV-2 13-01-1906 02-08-2002 Austria 
+/numPatientDischarges SARS-1 17-02-1914 07-01-1971  
+/searchPatientRecord 3436 
+/numPatientDischarges COVID-2019 08-01-1955 02-05-1978 France 
+/numPatientAdmissions EVD 30-07-1951 12-02-1962  
+/numPatientDischarges EVD 12-07-1946 23-04-1963  
+/topk-AgeRanges 4 Poland MERS-COV 30-07-2001 15-09-2011 
+/searchPatientRecord 4025 
+/searchPatientRecord 4400 
+/searchPatientRecord 5153 
+/searchPatientRecord 1713 
+/numPatientAdmissions EVD 09-05-1915 16-08-1974 Russia 
+/diseaseFrequency COVID-2019 01-01-1908 26-12-1916 Canada 
+/diseaseFrequency EVD 07-01-1965 16-12-2017  
+/diseaseFrequency COVID-2019 15-02-1907 12-05-1976 Italy 
+/diseaseFrequency SARSCOV-2 23-12-1933 27-01-1945 Spain 
+/topk-AgeRanges 3 Canada SARS-1 31-07-1908 02-03-1945 
+/searchPatientRecord 3187 
+/searchPatientRecord 8975 
+/searchPatientRecord 6456 
+/numPatientDischarges COVID-2019 11-01-1921 23-12-1953 Italy 
+/searchPatientRecord 4042 
+/numPatientAdmissions FLU-2018 10-06-1998 09-03-2011  
+/topk-AgeRanges 4 Austria SARS-1 31-08-1901 09-08-1978 
+/numPatientAdmissions FLU-2018 22-09-2005 30-04-2018 Poland 
+/diseaseFrequency COVID-2019 20-07-2018 27-08-2019  
+/topk-AgeRanges 1 Poland SARSCOV-2 04-06-1934 30-08-1967 
+/searchPatientRecord 2624 
+/numPatientAdmissions SARSCOV-2 17-05-1939 26-11-1990  
+/topk-AgeRanges 1 Greece MERS-COV 01-04-2007 13-11-2008 
+/numPatientDischarges SARS-1 08-01-1917 28-12-1940 France 
+/numPatientDischarges EVD 28-08-1946 18-11-1977 France 
+/numPatientDischarges SARS-1 22-11-1950 21-08-1989  
+/searchPatientRecord 3229 
+/diseaseFrequency EVD 12-08-1988 18-03-1999  
+/topk-AgeRanges 1 Poland SARSCOV-2 09-10-1920 17-08-1981 
+/numPatientDischarges COVID-2019 17-01-1939 15-06-2006 France 
+/numPatientDischarges SARS-1 20-09-1918 27-06-1998 Greece 
+/topk-AgeRanges 2 France MERS-COV 20-01-1932 02-10-1950 
+/numPatientDischarges COVID-2019 27-05-1944 18-07-1986 Poland 
+/numPatientAdmissions SARSCOV-2 17-12-1930 03-06-2002 Greece 
+/searchPatientRecord 5948 
+/numPatientDischarges EVD 01-03-1980 30-01-1986  
+/searchPatientRecord 358 
+/numPatientDischarges MERS-COV 12-09-1967 19-05-1993  
+/diseaseFrequency EVD 22-03-1989 30-07-2010  
+/diseaseFrequency FLU-2018 16-10-1963 24-03-1983 Austria 
+/numPatientAdmissions EVD 22-08-1926 28-10-1992 Italy 
+/numPatientAdmissions SARSCOV-2 17-07-1926 20-07-1939 Germany 
+/diseaseFrequency MERS-COV 15-05-1913 12-10-2009 Greece 
+/topk-AgeRanges 3 Greece SARSCOV-2 21-06-1983 23-04-2019 
+/numPatientDischarges SARS-1 16-03-2007 13-02-2016 Austria 
+/searchPatientRecord 3914 
+/topk-AgeRanges 2 Canada SARS-1 03-07-1942 30-10-1992 
+/numPatientAdmissions SARS-1 07-08-1926 24-06-1961  
+/searchPatientRecord 4621 
+/diseaseFrequency MERS-COV 27-07-1931 10-07-1958 Austria 
+/numPatientDischarges SARSCOV-2 10-07-1946 07-04-1953 Spain 
+/numPatientDischarges EVD 04-07-1919 12-09-1939 Canada 
+/diseaseFrequency FLU-2018 11-10-1978 22-06-1979  
+/diseaseFrequency EVD 13-01-1929 18-11-1935  
+/numPatientDischarges FLU-2018 10-06-1987 18-10-2014  
+/numPatientDischarges EVD 21-03-1986 13-08-2001  
+/searchPatientRecord 4598 
+/searchPatientRecord 2440 
+/diseaseFrequency SARS-1 12-05-1947 20-09-2016  
+/searchPatientRecord 7252 
+/numPatientAdmissions EVD 05-02-2007 22-08-2007  
+/topk-AgeRanges 1 France SARS-1 14-11-1948 02-09-2009 
+/searchPatientRecord 9362 
+/diseaseFrequency EVD 10-04-2003 23-01-2005  
+/searchPatientRecord 6465 
+/diseaseFrequency SARSCOV-2 10-10-1962 17-04-1972 Spain 
+/numPatientDischarges FLU-2018 26-12-1977 13-12-1986  
+/diseaseFrequency EVD 16-11-1969 11-10-1970 Canada 
+/topk-AgeRanges 2 Greece SARS-1 26-03-2007 07-11-2018 
+/numPatientAdmissions EVD 05-12-1968 24-07-1998 Poland 
+/diseaseFrequency SARSCOV-2 16-06-1944 30-08-1974  
+/searchPatientRecord 2253 
+/numPatientAdmissions COVID-2019 21-09-1951 20-02-1959  
+/diseaseFrequency SARS-1 21-04-1977 20-05-1989 Sweden 
+/searchPatientRecord 7680 
+/numPatientAdmissions SARSCOV-2 11-09-1905 26-03-1983  
+/numPatientDischarges COVID-2019 15-06-1942 17-02-1950 Sweden 
+/topk-AgeRanges 4 Canada EVD 21-05-1966 23-05-1983 
+/searchPatientRecord 6679 
+/topk-AgeRanges 3 Austria COVID-2019 27-03-1926 01-02-2006 
+/topk-AgeRanges 2 Poland MERS-COV 18-05-1906 25-02-1980 
+/diseaseFrequency FLU-2018 20-09-1965 24-09-2010 Spain 
+/searchPatientRecord 9095 
+/diseaseFrequency SARS-1 26-12-1968 20-05-2000 Austria 
+/diseaseFrequency EVD 25-04-1953 10-11-2009  
+/numPatientDischarges FLU-2018 31-07-1978 04-02-2002  
+/topk-AgeRanges 2 Russia SARS-1 16-10-1971 14-08-1972 
+/diseaseFrequency MERS-COV 02-05-1929 02-04-1945 Sweden 
+/numPatientAdmissions MERS-COV 26-02-2008 25-06-2018 Greece 
+/numPatientAdmissions SARS-1 13-06-1920 27-12-1995 Italy 
+/numPatientDischarges COVID-2019 12-09-1947 01-09-1991 Russia 
+/topk-AgeRanges 3 France SARS-1 02-02-1965 20-06-1979 
+/numPatientDischarges SARSCOV-2 01-03-1974 17-07-2013 Italy 
+/topk-AgeRanges 2 Italy COVID-2019 18-09-1999 29-08-2015 
+/numPatientDischarges SARS-1 30-10-1952 02-07-1966  
+/numPatientDischarges COVID-2019 03-03-1964 17-02-2010  
+/numPatientAdmissions SARS-1 17-09-1980 16-01-1992  
+/numPatientDischarges MERS-COV 20-03-1924 14-01-2004 Italy 
+/numPatientAdmissions SARSCOV-2 14-02-1915 20-05-1973 Russia 
+/numPatientAdmissions EVD 11-04-1973 22-06-2013  
+/topk-AgeRanges 3 Greece FLU-2018 09-07-1984 18-01-2009 
+/numPatientDischarges SARS-1 12-01-1922 14-12-1947  
+/numPatientDischarges SARSCOV-2 27-01-1985 22-07-1991 Spain 
+/topk-AgeRanges 3 Canada FLU-2018 01-04-1934 25-08-1972 
+/searchPatientRecord 1774 
+/searchPatientRecord 7693 
+/diseaseFrequency EVD 08-06-2015 07-07-2018 Russia 
+/topk-AgeRanges 1 Germany EVD 02-01-1942 12-02-1950 
+/searchPatientRecord 6962 
+/numPatientAdmissions SARSCOV-2 10-10-1951 10-06-1953  
+/numPatientDischarges EVD 05-08-2007 17-08-2013 Italy 
+/searchPatientRecord 2015 
+/diseaseFrequency MERS-COV 12-07-1999 01-12-2001 Germany 
+/numPatientAdmissions EVD 17-11-1928 12-09-1989 Canada 
+/diseaseFrequency COVID-2019 15-02-1994 26-05-2010 Italy 
+/numPatientDischarges EVD 27-07-1932 10-12-1991 Italy 
+/topk-AgeRanges 3 Austria FLU-2018 04-12-1973 07-06-1974 
+/diseaseFrequency FLU-2018 27-02-2016 15-03-2018 Austria 
+/numPatientAdmissions SARSCOV-2 15-09-2015 06-08-2017 Canada 
+/topk-AgeRanges 3 Canada SARSCOV-2 04-09-1909 01-06-1964 
+/numPatientDischarges COVID-2019 05-03-1905 28-03-1948 Italy 
+/diseaseFrequency SARSCOV-2 09-12-1977 29-10-2014  
+/diseaseFrequency FLU-2018 07-03-1979 22-03-2012 Poland 
+/diseaseFrequency SARS-1 14-04-1974 12-10-2005  
+/numPatientDischarges SARSCOV-2 20-03-2003 11-10-2012  
+/numPatientDischarges FLU-2018 07-06-1931 27-07-1997  
+/numPatientDischarges SARS-1 15-04-1918 19-12-2019  
+/numPatientAdmissions SARSCOV-2 14-11-1990 03-04-2005 Germany 
+/searchPatientRecord 2821 
+/topk-AgeRanges 4 Russia EVD 09-08-1990 16-11-1990 
+/numPatientDischarges COVID-2019 06-09-1917 17-08-2003  
+/topk-AgeRanges 4 Canada MERS-COV 09-10-1941 02-03-1965 
+/diseaseFrequency MERS-COV 05-11-1933 06-06-1962 Austria 
+/searchPatientRecord 780 
+/numPatientDischarges MERS-COV 01-11-1974 14-08-1987  
+/topk-AgeRanges 4 Poland MERS-COV 18-02-1975 28-12-2001 
+/diseaseFrequency MERS-COV 05-05-1962 03-12-1962 France 
+/numPatientAdmissions FLU-2018 17-11-1947 15-08-2001  
+/topk-AgeRanges 1 Germany FLU-2018 20-11-1904 24-12-2002 
+/topk-AgeRanges 4 Spain EVD 20-08-1926 08-09-1996 
+/topk-AgeRanges 4 Russia MERS-COV 19-09-2010 31-12-2010 
+/numPatientDischarges SARSCOV-2 01-09-1915 01-12-1971 Italy 
+/topk-AgeRanges 1 Greece MERS-COV 03-05-1925 12-03-1934 
+/topk-AgeRanges 3 Austria SARSCOV-2 21-09-2017 28-02-2018 
+/searchPatientRecord 2018 
+/numPatientAdmissions SARS-1 11-07-2018 18-11-2018 Austria 
+/topk-AgeRanges 3 Russia FLU-2018 07-09-1995 05-04-2004 
+/numPatientAdmissions SARS-1 18-02-1997 29-06-2017 France 
+/diseaseFrequency SARS-1 25-12-1931 30-05-1985 Sweden 
+/numPatientDischarges COVID-2019 07-10-1984 12-08-2004 Spain 
+/topk-AgeRanges 2 Greece FLU-2018 04-12-2014 01-12-2017 
+/topk-AgeRanges 2 France SARS-1 23-01-1944 16-01-1954 
+/searchPatientRecord 9658 
+/numPatientAdmissions EVD 24-01-1962 16-03-1966 Spain 
+/searchPatientRecord 6321 
+/diseaseFrequency SARSCOV-2 16-08-1971 08-12-1990 Germany 
+/numPatientDischarges MERS-COV 18-07-1992 30-08-1997 Spain 
+/diseaseFrequency FLU-2018 22-10-1984 19-01-2011  
+/diseaseFrequency EVD 28-08-2019 06-10-2019 France 
+/diseaseFrequency SARS-1 01-04-1965 27-11-2019  
+/numPatientDischarges MERS-COV 15-05-2006 26-05-2007  
+/topk-AgeRanges 1 Austria FLU-2018 20-09-1947 05-08-1979 
+/numPatientAdmissions SARSCOV-2 27-12-2014 14-10-2019 Poland 
+/searchPatientRecord 6688 
+/diseaseFrequency COVID-2019 20-04-2005 07-09-2012  
+/numPatientDischarges SARS-1 02-12-1919 09-06-1940  
+/numPatientDischarges COVID-2019 16-12-1923 03-09-2001  
+/searchPatientRecord 6970 
+/numPatientAdmissions SARSCOV-2 10-12-1977 21-10-2015  
+/numPatientAdmissions SARSCOV-2 23-07-1929 10-01-1944  
+/numPatientDischarges MERS-COV 10-12-2004 20-08-2006 Austria 
+/topk-AgeRanges 1 Italy SARS-1 28-09-1937 25-09-1977 
+/numPatientDischarges SARSCOV-2 31-12-1974 26-09-1984 Germany 
+/searchPatientRecord 681 
+/numPatientAdmissions SARS-1 21-09-2019 02-11-2019  
+/topk-AgeRanges 2 Greece EVD 02-12-1993 07-06-2010 
+/topk-AgeRanges 1 Russia SARSCOV-2 16-06-1978 21-05-1985 
+/numPatientDischarges COVID-2019 29-11-1924 20-04-1999 Italy 
+/searchPatientRecord 1516 
+/topk-AgeRanges 4 Sweden EVD 14-01-1980 17-09-2003 
+/numPatientAdmissions FLU-2018 30-01-1921 07-11-1945 France 
+/searchPatientRecord 4154 
+/searchPatientRecord 9521 
+/numPatientDischarges SARSCOV-2 03-01-1944 26-06-1972  
+/numPatientAdmissions COVID-2019 05-10-2014 16-04-2017  
+/numPatientDischarges EVD 03-09-1950 29-06-2010  
+/diseaseFrequency FLU-2018 26-08-1970 12-11-2006  
+/numPatientAdmissions EVD 25-09-1923 16-02-1925  
+/diseaseFrequency SARS-1 09-10-1900 03-04-1911  
+/diseaseFrequency SARSCOV-2 01-04-1918 07-03-2018  
+/topk-AgeRanges 4 Poland FLU-2018 16-07-1928 02-04-1979 
+/topk-AgeRanges 2 France SARSCOV-2 12-10-1918 17-01-1924 
+/topk-AgeRanges 2 Poland SARSCOV-2 17-02-1969 05-02-1981 
+/searchPatientRecord 9444 
+/numPatientDischarges FLU-2018 21-05-1926 09-07-2015 Sweden 
+/numPatientDischarges SARSCOV-2 24-09-1966 06-07-1992  
+/diseaseFrequency EVD 01-09-1933 30-08-1980 Russia 
+/numPatientDischarges EVD 19-01-1986 11-05-2006 Russia 
+/diseaseFrequency SARS-1 24-07-1946 19-12-1951  
+/diseaseFrequency SARSCOV-2 05-02-1936 24-03-1969  
+/numPatientDischarges SARSCOV-2 10-04-1954 09-11-1971 Austria 
+/numPatientAdmissions FLU-2018 14-12-1928 03-07-1943 Poland 
+/numPatientDischarges SARSCOV-2 16-06-1951 07-07-2000 Austria 
+/numPatientAdmissions COVID-2019 23-02-1939 26-01-2011 France 
+/numPatientAdmissions COVID-2019 03-09-2006 25-03-2011 Poland 
+/diseaseFrequency COVID-2019 26-07-2017 21-03-2019  
+/searchPatientRecord 6871 
+/topk-AgeRanges 2 Russia MERS-COV 20-06-1944 07-12-1946 
+/diseaseFrequency FLU-2018 04-06-1922 05-04-1959  
+/diseaseFrequency SARSCOV-2 05-03-1967 12-10-1995  
+/searchPatientRecord 2315 
+/numPatientDischarges COVID-2019 21-01-1997 21-04-2010 Canada 
+/numPatientDischarges COVID-2019 03-08-1915 14-06-1920 Canada 
+/numPatientDischarges SARSCOV-2 25-03-1966 09-05-1972  
+/numPatientAdmissions MERS-COV 26-04-2006 05-09-2006 Greece 
+/diseaseFrequency EVD 05-05-1946 24-07-2017  
+/numPatientAdmissions MERS-COV 23-06-1931 09-12-1989 Canada 
+/numPatientAdmissions MERS-COV 18-10-1965 26-09-2011  
+/diseaseFrequency MERS-COV 12-04-2015 14-10-2017  
+/topk-AgeRanges 2 Poland SARS-1 19-02-2017 28-09-2018 
+/searchPatientRecord 5358 
+/numPatientAdmissions MERS-COV 17-02-1990 23-10-2014  
+/numPatientDischarges COVID-2019 09-12-2004 12-09-2006  
+/numPatientAdmissions SARSCOV-2 04-02-1975 08-04-2004  
+/numPatientDischarges FLU-2018 24-07-1972 09-08-2000  
+/searchPatientRecord 9097 
+/searchPatientRecord 245 
+/numPatientAdmissions FLU-2018 29-04-1961 18-09-2002  
+/searchPatientRecord 8381 
+/numPatientDischarges SARS-1 06-07-1974 10-11-2019 Sweden 
+/numPatientAdmissions SARS-1 10-01-1965 16-10-1967  
+/numPatientDischarges SARS-1 20-10-1925 02-05-2012  
+/diseaseFrequency SARS-1 07-10-2007 14-01-2013 Canada 
+/diseaseFrequency EVD 14-08-1978 03-09-2012  
+/searchPatientRecord 2665 
+/numPatientAdmissions SARSCOV-2 11-09-1935 22-05-1977 Spain 
+/searchPatientRecord 6381 
+/numPatientDischarges COVID-2019 08-08-1928 21-10-1977 Italy 
+/searchPatientRecord 5036 
+/topk-AgeRanges 2 Germany COVID-2019 20-02-1927 23-08-1957 
+/numPatientDischarges COVID-2019 07-04-1910 19-05-2002  
+/numPatientDischarges SARS-1 14-05-1948 09-01-2003  
+/diseaseFrequency COVID-2019 06-01-1924 03-09-1991  
+/searchPatientRecord 2866 
+/topk-AgeRanges 3 France EVD 22-08-1960 26-05-1992 
+/diseaseFrequency COVID-2019 07-08-2011 12-01-2019 Spain 
+/numPatientDischarges COVID-2019 18-07-1956 25-11-2003 Sweden 
+/numPatientAdmissions MERS-COV 16-04-2008 19-08-2019 Italy 
+/topk-AgeRanges 4 Poland SARS-1 23-10-1933 17-04-1934 
+/diseaseFrequency COVID-2019 06-04-1956 28-11-1992 Greece 
+/numPatientAdmissions SARS-1 11-09-1972 29-03-2017  
+/numPatientDischarges COVID-2019 23-11-1911 18-01-1934 France 
+/numPatientDischarges MERS-COV 05-03-2018 10-02-2019 Italy 
+/topk-AgeRanges 4 France SARSCOV-2 14-02-1969 16-07-1989 
+/numPatientAdmissions FLU-2018 22-04-1972 11-12-2015  
+/numPatientDischarges EVD 02-08-1966 20-05-1991  
+/topk-AgeRanges 4 Russia SARSCOV-2 21-01-1981 26-08-2006 
+/searchPatientRecord 2113 
+/numPatientAdmissions MERS-COV 22-07-1938 11-01-1998 Canada 
+/topk-AgeRanges 2 France SARS-1 23-02-1967 22-06-2014 
+/searchPatientRecord 3225 
+/numPatientAdmissions COVID-2019 07-06-1971 25-01-2003  
+/numPatientDischarges COVID-2019 02-10-1973 21-08-2013  
+/numPatientAdmissions SARSCOV-2 26-08-2000 13-03-2019 Italy 
+/numPatientAdmissions SARS-1 28-11-1968 23-09-1981 Austria 
+/diseaseFrequency COVID-2019 17-05-1961 13-12-1988  
+/numPatientDischarges SARSCOV-2 31-07-2007 08-05-2008  
+/topk-AgeRanges 3 Poland COVID-2019 11-02-1998 26-04-2008 
+/numPatientDischarges FLU-2018 01-07-1987 12-03-1998  
+/searchPatientRecord 3922 
+/searchPatientRecord 6732 
+/diseaseFrequency SARS-1 11-05-2000 10-03-2004 Austria 
+/numPatientDischarges MERS-COV 29-12-1983 09-01-1995  
+/topk-AgeRanges 2 Austria FLU-2018 05-05-1999 01-04-2006 
+/topk-AgeRanges 2 Italy MERS-COV 01-10-2002 24-06-2013 
+/numPatientDischarges FLU-2018 02-12-2001 10-01-2012  
+/numPatientAdmissions SARS-1 28-02-1920 25-04-1970  
+/numPatientDischarges SARS-1 27-04-1949 11-10-2006  
+/topk-AgeRanges 4 France FLU-2018 02-05-1957 06-05-1974 
+/topk-AgeRanges 3 Sweden SARSCOV-2 13-03-1976 19-10-1991 
+/topk-AgeRanges 4 Spain FLU-2018 12-01-1931 30-10-1948 
+/diseaseFrequency MERS-COV 18-12-1957 02-11-1964  
+/topk-AgeRanges 2 Russia SARSCOV-2 05-07-1928 17-02-1997 
+/searchPatientRecord 3910 
+/searchPatientRecord 2543 
+/searchPatientRecord 1480 
+/numPatientAdmissions SARSCOV-2 09-06-1967 28-02-2001  
+/diseaseFrequency SARSCOV-2 17-06-1988 03-03-1990 Sweden 
+/diseaseFrequency SARS-1 09-02-1986 14-11-2002 Spain 
+/diseaseFrequency SARS-1 11-07-1948 30-06-2015 Spain 
+/searchPatientRecord 8274 
+/diseaseFrequency COVID-2019 06-05-1919 28-07-1950 Poland 
+/numPatientAdmissions MERS-COV 29-01-1930 10-04-1960 Austria 
+/numPatientDischarges EVD 31-12-1957 30-10-2007 Poland 
+/numPatientAdmissions FLU-2018 23-05-2006 12-11-2007  
+/numPatientAdmissions FLU-2018 23-08-1936 06-09-2017  
+/searchPatientRecord 1567 
+/numPatientAdmissions FLU-2018 06-02-1951 09-11-1981 France 
+/diseaseFrequency SARS-1 01-10-1975 20-08-2008  
+/diseaseFrequency COVID-2019 10-10-1932 31-12-2004  
+/searchPatientRecord 1435 
+/searchPatientRecord 9904 
+/diseaseFrequency EVD 29-10-1916 25-08-1974  
+/numPatientDischarges COVID-2019 14-09-1947 28-06-1959 Italy 
+/topk-AgeRanges 3 Sweden SARS-1 09-02-1980 07-08-1980 
+/numPatientDischarges MERS-COV 09-11-2004 18-05-2009  
+/topk-AgeRanges 2 France COVID-2019 01-01-2012 07-10-2014 
+/numPatientAdmissions COVID-2019 22-06-1915 14-01-1973 Poland 
+/numPatientAdmissions SARS-1 05-07-1994 01-07-2000 France 
+/numPatientDischarges SARSCOV-2 23-04-1946 21-07-1989 Germany 
+/diseaseFrequency SARSCOV-2 10-11-1930 26-11-1989  
+/numPatientDischarges COVID-2019 04-12-2001 08-02-2005 Poland 
+/numPatientDischarges SARSCOV-2 26-04-1928 11-09-2001 Canada 
+/numPatientDischarges MERS-COV 05-12-1920 04-09-1978  
+/diseaseFrequency FLU-2018 18-03-1909 16-11-1993 France 
+/diseaseFrequency EVD 20-10-1980 06-04-2013  
+/topk-AgeRanges 2 Italy FLU-2018 19-02-2007 19-11-2010 
+/topk-AgeRanges 3 Poland COVID-2019 06-05-1979 27-09-2016 
+/numPatientAdmissions SARS-1 30-11-1906 03-11-1948 Italy 
+/numPatientAdmissions FLU-2018 05-07-1947 04-09-1988 Russia 
+/numPatientDischarges EVD 06-11-1926 23-07-1961  
+/numPatientAdmissions SARSCOV-2 18-07-2017 27-10-2017 Austria 
+/topk-AgeRanges 2 Russia SARSCOV-2 06-02-1959 31-12-2013 
+/numPatientDischarges SARSCOV-2 23-09-1930 12-05-1972  
+/numPatientDischarges SARSCOV-2 02-08-1985 18-04-2017 Italy 
+/searchPatientRecord 1720 
+/searchPatientRecord 6691 
+/diseaseFrequency FLU-2018 01-06-1927 30-04-1963 Austria 
+/diseaseFrequency FLU-2018 29-01-1956 17-07-1980 Italy 
+/topk-AgeRanges 1 Spain COVID-2019 25-02-1994 21-01-1999 
+/diseaseFrequency FLU-2018 14-09-2003 28-01-2008  
+/searchPatientRecord 3994 
+/numPatientAdmissions MERS-COV 07-06-1915 22-03-1963  
+/diseaseFrequency SARS-1 14-07-1950 25-12-1974 Poland 
+/numPatientAdmissions MERS-COV 06-11-1945 26-05-1991 Greece 
+/numPatientAdmissions EVD 23-07-1996 27-01-1999 Italy 
+/numPatientDischarges MERS-COV 18-08-1972 04-10-1982 Canada 
+/numPatientDischarges MERS-COV 14-05-1921 01-05-1926 Germany 
+/numPatientDischarges EVD 18-02-1998 27-05-2008 Germany 
+/numPatientDischarges COVID-2019 15-02-1941 02-05-1955  
+/numPatientDischarges SARSCOV-2 30-06-2016 10-09-2018 Sweden 
+/diseaseFrequency COVID-2019 21-02-1918 15-03-1980 Italy 
+/diseaseFrequency SARS-1 15-01-1955 19-10-1959 Greece 
+/searchPatientRecord 2804 
+/searchPatientRecord 4087 
+/numPatientAdmissions SARSCOV-2 27-12-1943 05-10-2018 Canada 
+/topk-AgeRanges 4 Canada COVID-2019 05-02-1999 08-02-2009 
+/numPatientAdmissions EVD 02-04-1948 25-06-1982 Greece 
+/numPatientAdmissions COVID-2019 01-04-1998 29-07-2010  
+/topk-AgeRanges 4 Austria FLU-2018 13-12-1952 14-04-1995 
+/topk-AgeRanges 2 Canada FLU-2018 10-09-1914 24-09-2002 
+/topk-AgeRanges 2 Poland COVID-2019 17-08-1975 15-10-2012 
+/searchPatientRecord 6984 
+/diseaseFrequency SARS-1 11-08-1976 10-12-1982  
+/numPatientAdmissions COVID-2019 16-04-1922 24-08-1945  
+/diseaseFrequency FLU-2018 12-01-1906 22-02-1922  
+/searchPatientRecord 4421 
+/topk-AgeRanges 3 Greece MERS-COV 27-04-1956 25-07-1991 
+/numPatientDischarges MERS-COV 10-09-1998 09-06-2006 Austria 
+/searchPatientRecord 402 
+/topk-AgeRanges 1 Italy MERS-COV 21-09-2007 23-11-2007 
+/searchPatientRecord 8928 
+/diseaseFrequency COVID-2019 08-11-1984 27-02-1991 Italy 
+/numPatientDischarges SARS-1 14-12-1997 15-11-2002  
+/numPatientDischarges SARS-1 30-08-1999 15-03-2005  
+/numPatientDischarges MERS-COV 24-10-1963 31-03-1988  
+/topk-AgeRanges 2 Poland FLU-2018 29-05-1980 20-05-2013 
+/searchPatientRecord 9501 
+/topk-AgeRanges 1 Italy EVD 30-09-1965 16-12-2010 
+/topk-AgeRanges 3 Canada SARSCOV-2 21-09-1919 29-08-1955 
+/numPatientDischarges MERS-COV 31-05-1970 02-05-2018  
+/diseaseFrequency FLU-2018 09-09-1928 13-09-1958 Poland 
+/topk-AgeRanges 1 Italy FLU-2018 28-12-1951 15-05-1965 
+/numPatientDischarges MERS-COV 14-10-1903 09-02-1926  
+/numPatientDischarges EVD 29-01-2011 22-05-2017 France 
+/searchPatientRecord 119 
+/numPatientAdmissions FLU-2018 21-08-1973 31-03-1989  
+/searchPatientRecord 9029 
+/diseaseFrequency COVID-2019 02-05-1935 19-12-1953  
+/searchPatientRecord 9502 
+/numPatientDischarges COVID-2019 21-04-1921 26-08-1985 Russia 
+/numPatientAdmissions FLU-2018 21-05-1909 15-04-1952  
+/diseaseFrequency SARS-1 16-04-2005 02-03-2008  
+/searchPatientRecord 6098 
+/searchPatientRecord 3278 
+/searchPatientRecord 6670 
+/numPatientAdmissions MERS-COV 02-02-1923 08-01-2004  
+/diseaseFrequency MERS-COV 21-08-1978 02-11-2001  
+/searchPatientRecord 1200 
+/diseaseFrequency SARSCOV-2 02-03-1903 13-08-1982  
+/numPatientAdmissions EVD 26-07-1991 08-11-1997 France 
+/numPatientDischarges MERS-COV 12-03-1976 18-05-1990  
+/numPatientDischarges EVD 08-04-1995 19-10-2019  
+/numPatientDischarges COVID-2019 25-04-1985 22-02-2019 Canada 
+/numPatientDischarges MERS-COV 27-05-1957 12-11-2004 Spain 
+/searchPatientRecord 8178 
+/searchPatientRecord 6881 
+/diseaseFrequency SARSCOV-2 12-12-1966 28-11-1975 Sweden 
+/diseaseFrequency SARS-1 04-02-1934 18-12-1957 Germany 
+/topk-AgeRanges 4 Spain COVID-2019 07-05-1937 18-09-1971 
+/topk-AgeRanges 2 Italy FLU-2018 25-07-1941 12-03-1991 
+/numPatientAdmissions FLU-2018 29-01-1907 20-01-1946 Italy 
+/searchPatientRecord 7375 
+/searchPatientRecord 6714 
+/numPatientDischarges SARS-1 23-05-1965 07-04-1970  
+/numPatientAdmissions EVD 20-07-1970 23-05-1979 France 
+/numPatientAdmissions SARSCOV-2 22-11-1902 25-11-1998 France 
+/topk-AgeRanges 1 Russia FLU-2018 01-12-1994 01-11-2017 
+/searchPatientRecord 4930 
+/searchPatientRecord 6286 
+/diseaseFrequency COVID-2019 25-08-1933 23-07-1984 Spain 
+/diseaseFrequency MERS-COV 20-07-1939 17-06-1957  
+/numPatientAdmissions MERS-COV 15-07-2009 09-07-2012  
+/diseaseFrequency EVD 01-03-1995 11-08-1995  
+/searchPatientRecord 8571 
+/numPatientAdmissions FLU-2018 25-07-1994 22-11-2002  
+/diseaseFrequency FLU-2018 27-07-1993 21-03-1998  
+/topk-AgeRanges 3 Canada FLU-2018 16-01-1945 25-10-1949 
+/numPatientDischarges MERS-COV 29-05-1917 07-01-1955  
+/numPatientAdmissions SARSCOV-2 09-04-2000 11-03-2018 Canada 
+/topk-AgeRanges 1 Austria SARS-1 09-03-1990 17-11-2001 
+/numPatientAdmissions COVID-2019 08-04-1990 15-10-1995  
+/topk-AgeRanges 1 Poland SARSCOV-2 19-12-1975 11-08-1988 
+/topk-AgeRanges 2 Greece COVID-2019 23-04-1980 06-08-1984 
+/searchPatientRecord 4139 
+/topk-AgeRanges 3 Russia MERS-COV 13-11-1936 14-09-1991 
+/searchPatientRecord 7630 
+/numPatientAdmissions EVD 26-05-1976 27-03-2016 Sweden 
+/topk-AgeRanges 2 Russia MERS-COV 20-11-1991 16-06-2001 
+/topk-AgeRanges 3 Greece COVID-2019 22-12-1949 17-02-2008 
+/diseaseFrequency FLU-2018 29-06-1926 10-03-1951  
+/searchPatientRecord 1764 
+/numPatientAdmissions SARSCOV-2 25-12-1938 15-04-1943 Canada 
+/numPatientAdmissions COVID-2019 21-07-1914 14-12-1977  
+/topk-AgeRanges 4 Poland MERS-COV 26-12-1926 12-11-1948 
+/diseaseFrequency SARSCOV-2 05-10-1977 14-08-1993 France 
+/numPatientDischarges MERS-COV 16-11-1986 10-10-2007 Poland 
+/topk-AgeRanges 3 France EVD 10-03-1953 06-02-1969 
+/numPatientAdmissions EVD 06-10-2016 03-02-2017  
+/searchPatientRecord 1087 
+/numPatientDischarges MERS-COV 31-01-1915 27-07-1995 Canada 
+/diseaseFrequency EVD 10-09-2004 25-03-2006 Russia 
+/diseaseFrequency COVID-2019 30-06-2005 15-08-2015  
+/numPatientAdmissions SARSCOV-2 29-06-1914 15-03-1941 Spain 
+/searchPatientRecord 7855 
+/numPatientDischarges COVID-2019 06-04-2011 29-10-2016 France 
+/numPatientDischarges COVID-2019 01-10-2017 23-11-2019  
+/searchPatientRecord 6238 
+/searchPatientRecord 6470 
+/topk-AgeRanges 2 Canada FLU-2018 03-03-1980 27-11-2013 
+/numPatientAdmissions FLU-2018 28-05-1982 22-06-2008  
+/searchPatientRecord 1235 
+/numPatientAdmissions EVD 02-12-1969 29-11-1989  
+/diseaseFrequency EVD 09-03-1960 21-03-1969 Austria 
+/topk-AgeRanges 2 Canada FLU-2018 28-09-1943 03-01-1967 
+/searchPatientRecord 7622 
+/numPatientDischarges COVID-2019 31-10-1936 24-10-1957  
+/numPatientDischarges SARSCOV-2 24-04-1969 19-04-1998  
+/numPatientAdmissions MERS-COV 23-04-2008 16-11-2012  
+/topk-AgeRanges 3 Germany SARS-1 05-07-1964 12-03-1999 
+/numPatientDischarges MERS-COV 20-03-1950 09-02-1971  
+/numPatientDischarges FLU-2018 25-02-1979 23-08-2006  
+/topk-AgeRanges 2 Austria EVD 29-09-1970 24-01-2015 
+/topk-AgeRanges 2 Germany EVD 23-08-1950 12-07-1983 
+/numPatientAdmissions SARSCOV-2 01-03-1927 17-09-1939 Russia 
+/diseaseFrequency EVD 14-01-1960 26-04-1990  
+/numPatientAdmissions SARSCOV-2 05-07-1962 14-11-1977  
+/topk-AgeRanges 2 France FLU-2018 10-11-1908 29-08-1998 
+/numPatientDischarges COVID-2019 29-06-1932 09-06-2001  
+/numPatientDischarges COVID-2019 04-08-1907 16-09-1980  
+/numPatientDischarges MERS-COV 26-02-1998 04-01-1999  
+/diseaseFrequency FLU-2018 30-04-1978 15-06-1997  
+/numPatientAdmissions COVID-2019 05-08-2019 30-08-2019 Poland 
+/searchPatientRecord 2724 
+/diseaseFrequency COVID-2019 27-11-1910 22-07-1963  
+/diseaseFrequency SARS-1 16-12-1903 30-03-1986  
+/numPatientDischarges SARSCOV-2 23-05-1981 03-10-1989 France 
+/diseaseFrequency EVD 04-12-1913 08-04-1935  
+/topk-AgeRanges 4 France SARS-1 17-01-2014 21-12-2014 
+/topk-AgeRanges 3 Canada MERS-COV 08-07-1973 30-07-2002 
+/topk-AgeRanges 4 Poland FLU-2018 01-06-1989 26-06-1990 
+/topk-AgeRanges 1 Germany FLU-2018 15-02-1949 15-03-1996 
+/searchPatientRecord 4365 
+/diseaseFrequency FLU-2018 25-06-1902 09-12-1939  
+/searchPatientRecord 9129 
+/searchPatientRecord 3623 
+/diseaseFrequency SARS-1 08-04-1917 04-01-1985 Greece 
+/searchPatientRecord 7044 
+/numPatientAdmissions COVID-2019 18-07-1914 14-05-2018 Sweden 
+/topk-AgeRanges 3 Poland SARSCOV-2 02-09-2007 19-10-2013 
+/topk-AgeRanges 1 Austria EVD 25-09-2014 15-08-2019 
+/numPatientAdmissions MERS-COV 08-04-1906 01-03-1981  
+/diseaseFrequency SARSCOV-2 16-11-2017 23-10-2019  
+/searchPatientRecord 3117 
+/searchPatientRecord 6921 
+/topk-AgeRanges 2 Austria SARS-1 30-07-1936 24-09-1980 
+/topk-AgeRanges 3 France FLU-2018 12-12-1992 02-12-2010 
+/numPatientDischarges COVID-2019 23-02-1909 19-02-1928 Greece 
+/searchPatientRecord 2315 
+/topk-AgeRanges 2 Spain EVD 05-07-1933 04-03-1941 
+/topk-AgeRanges 1 Greece FLU-2018 04-11-1994 18-08-2016 
+/searchPatientRecord 7528 
+/numPatientDischarges SARS-1 23-04-1922 28-04-1976  
+/numPatientAdmissions SARSCOV-2 23-06-2001 16-11-2001 Poland 
+/topk-AgeRanges 2 Germany MERS-COV 02-12-1930 26-01-1990 
+/searchPatientRecord 9098 
+/searchPatientRecord 5129 
+/diseaseFrequency FLU-2018 30-05-1988 13-10-1993 Sweden 
+/searchPatientRecord 350 
+/diseaseFrequency SARS-1 26-04-2019 19-05-2019  
+/numPatientDischarges EVD 29-05-1902 17-07-2006  
+/numPatientAdmissions SARS-1 26-01-2015 08-10-2019  
+/searchPatientRecord 312 
+/numPatientDischarges FLU-2018 02-08-1966 15-12-2018  
+/topk-AgeRanges 4 Canada MERS-COV 17-12-1996 09-01-2006 
+/searchPatientRecord 5316 
+/topk-AgeRanges 1 Russia FLU-2018 13-09-1970 07-10-1994 
+/diseaseFrequency EVD 26-07-2011 15-08-2015 Germany 
+/diseaseFrequency EVD 08-09-1969 02-11-1989  
+/numPatientDischarges COVID-2019 04-11-1982 13-09-1993 Russia 
+/searchPatientRecord 6443 
+/diseaseFrequency EVD 29-01-1911 26-04-1971 Italy 
+/numPatientAdmissions MERS-COV 07-08-1913 03-02-2007  
+/numPatientAdmissions COVID-2019 05-09-1962 04-03-2001  
+/numPatientDischarges SARSCOV-2 19-02-1994 02-03-2008  
+/searchPatientRecord 4761 
+/numPatientDischarges EVD 02-05-1909 16-07-1960  
+/numPatientAdmissions SARSCOV-2 29-11-1953 18-09-1988  
+/diseaseFrequency SARS-1 18-11-1985 14-09-2007 Greece 
+/numPatientAdmissions EVD 05-06-2003 25-10-2003  
+/searchPatientRecord 6027 
+/topk-AgeRanges 1 Austria FLU-2018 03-11-1959 29-03-1965 
+/searchPatientRecord 4435 
+/topk-AgeRanges 4 Russia COVID-2019 29-01-2010 23-01-2016 
+/topk-AgeRanges 3 Spain FLU-2018 01-03-1935 17-03-1967 
+/numPatientDischarges SARS-1 24-09-1974 12-04-2000 Italy 
+/searchPatientRecord 6016 
+/numPatientDischarges FLU-2018 09-12-1961 11-02-1991 Sweden 
+/numPatientDischarges SARS-1 13-12-1947 19-06-1951  
+/numPatientDischarges COVID-2019 19-04-1957 03-06-1991  
+/numPatientAdmissions MERS-COV 16-03-1917 12-05-2008 France 
+/searchPatientRecord 8029 
+/topk-AgeRanges 2 Austria SARS-1 14-12-1918 05-04-1965 
+/numPatientDischarges EVD 14-08-1981 29-05-2010  
+/numPatientAdmissions SARSCOV-2 02-08-1959 24-08-1977  
+/searchPatientRecord 6775 
+/searchPatientRecord 4354 
+/topk-AgeRanges 4 Russia FLU-2018 10-11-1985 21-08-2006 
+/numPatientDischarges SARSCOV-2 25-07-2016 26-12-2017  
+/searchPatientRecord 3403 
+/topk-AgeRanges 2 Russia EVD 03-02-1920 29-10-1983 
+/numPatientAdmissions SARSCOV-2 16-09-1934 01-09-1988  
+/topk-AgeRanges 3 Greece SARSCOV-2 14-06-2015 25-07-2016 
+/numPatientDischarges MERS-COV 18-06-1954 27-09-1993  
+/topk-AgeRanges 4 Austria SARSCOV-2 09-05-1906 28-09-1935 
+/numPatientDischarges FLU-2018 03-07-2006 05-05-2013  
+/diseaseFrequency SARSCOV-2 04-03-1984 18-03-2014  
+/searchPatientRecord 2753 
+/diseaseFrequency FLU-2018 13-02-1962 26-05-2019 France 
+/topk-AgeRanges 1 Austria SARSCOV-2 26-03-1914 29-04-2015 
+/searchPatientRecord 2911 
+/numPatientAdmissions MERS-COV 10-01-1994 01-09-2010 Russia 
+/numPatientAdmissions EVD 26-02-2000 26-11-2018 Russia 
+/diseaseFrequency MERS-COV 11-09-1962 17-06-1981  
+/numPatientAdmissions COVID-2019 14-11-1948 13-09-1993 Germany 
+/diseaseFrequency SARS-1 12-01-2012 16-07-2015  
+/numPatientDischarges COVID-2019 15-12-1912 05-02-1981 Canada 
+/searchPatientRecord 8938 
+/searchPatientRecord 7550 
+/searchPatientRecord 7617 
+/numPatientDischarges SARS-1 30-03-1922 17-04-2018  
+/topk-AgeRanges 4 Spain MERS-COV 09-01-1975 09-02-2009 
+/diseaseFrequency MERS-COV 08-09-1934 21-01-1970  
+/numPatientAdmissions MERS-COV 15-10-1985 11-10-2005  
+/topk-AgeRanges 2 Italy COVID-2019 25-07-1969 17-11-2018 
+/diseaseFrequency SARSCOV-2 31-01-2009 10-03-2011 Austria 
+/topk-AgeRanges 4 Italy COVID-2019 29-04-1968 15-11-2016 
+/topk-AgeRanges 4 France FLU-2018 21-05-1966 27-11-1974 
+/searchPatientRecord 915 
+/numPatientDischarges COVID-2019 17-05-1928 18-05-1978  
+/searchPatientRecord 8637 
+/topk-AgeRanges 1 Poland SARS-1 13-12-1909 07-07-1999 
+/searchPatientRecord 5389 
+/numPatientAdmissions COVID-2019 30-07-1929 18-08-1975 Greece 
+/diseaseFrequency FLU-2018 14-11-2015 11-05-2017 Poland 
+/numPatientDischarges SARSCOV-2 10-10-2017 24-12-2019  
+/diseaseFrequency COVID-2019 27-02-2018 25-10-2019 Spain 
+/searchPatientRecord 1883 
+/searchPatientRecord 3538 
+/numPatientAdmissions MERS-COV 30-06-1958 11-10-2010 Germany 
+/searchPatientRecord 9214 
+/diseaseFrequency COVID-2019 29-10-1940 14-09-2019  
+/numPatientDischarges COVID-2019 04-07-1964 25-02-1986 Russia 
+/topk-AgeRanges 3 Italy FLU-2018 26-02-1997 18-02-2007 
+/diseaseFrequency MERS-COV 09-04-1992 15-12-2019 Poland 
+/searchPatientRecord 9924 
+/topk-AgeRanges 3 Greece COVID-2019 22-09-1966 29-01-1995 
+/topk-AgeRanges 2 Germany SARSCOV-2 13-05-2017 09-10-2018 
+/diseaseFrequency SARS-1 14-12-1942 11-03-1961  
+/searchPatientRecord 8641 
+/diseaseFrequency SARSCOV-2 03-05-1902 16-11-1970  
+/numPatientDischarges SARSCOV-2 24-11-2008 08-07-2013  
+/searchPatientRecord 1619 
+/topk-AgeRanges 2 Canada SARS-1 20-02-1912 06-11-1920 
+/numPatientAdmissions SARS-1 08-11-1930 12-03-1957 France 
+/diseaseFrequency EVD 20-05-1930 15-02-2013 Sweden 
+/diseaseFrequency FLU-2018 05-10-1929 01-12-1976 Canada 
+/searchPatientRecord 705 
+/numPatientDischarges FLU-2018 24-09-1908 09-03-1950 Italy 
+/numPatientDischarges FLU-2018 03-01-2001 19-08-2014  
+/topk-AgeRanges 3 Italy EVD 13-10-2010 22-07-2015 
+/topk-AgeRanges 1 Sweden SARS-1 19-01-1935 20-07-1959 
+/numPatientDischarges FLU-2018 11-09-1947 19-07-1991 Russia 
+/numPatientDischarges EVD 19-07-1980 13-01-2018 Poland 
+/topk-AgeRanges 3 Sweden COVID-2019 10-01-2010 04-12-2019 
+/searchPatientRecord 5228 
+/numPatientAdmissions SARS-1 05-07-2016 25-07-2019  
+/topk-AgeRanges 4 France SARS-1 31-05-1973 07-04-1974 
+/diseaseFrequency FLU-2018 24-04-1987 07-04-2015  
+/numPatientDischarges EVD 22-04-1981 14-02-1998 Germany 
+/numPatientAdmissions FLU-2018 03-10-1949 22-07-2000 Spain 
+/searchPatientRecord 9180 
+/topk-AgeRanges 3 Russia EVD 02-03-1904 03-09-1977 
+/diseaseFrequency SARSCOV-2 18-09-2003 29-03-2018 Spain 
+/numPatientDischarges FLU-2018 26-12-1924 01-02-1939  
+/diseaseFrequency SARSCOV-2 11-03-1904 31-08-2004  
+/topk-AgeRanges 2 Russia MERS-COV 31-12-1923 06-02-1931 
+/searchPatientRecord 7214 
+/numPatientAdmissions SARS-1 03-02-2018 09-07-2019 Sweden 
+/numPatientAdmissions COVID-2019 28-04-1948 01-02-1951  
+/topk-AgeRanges 1 Russia EVD 13-01-1980 08-02-2005 
+/topk-AgeRanges 3 Greece MERS-COV 18-07-1919 14-05-1930 
+/numPatientDischarges SARSCOV-2 22-03-1947 21-04-1964  
+/topk-AgeRanges 3 France SARSCOV-2 18-07-1928 21-12-1956 
+/numPatientDischarges MERS-COV 27-11-1962 11-11-1982  
+/searchPatientRecord 6767 
+/numPatientDischarges SARS-1 14-07-1929 16-10-1964 Canada 
+/numPatientAdmissions MERS-COV 12-06-1953 24-02-1963 Greece 
+/topk-AgeRanges 2 Spain MERS-COV 20-05-1954 25-06-1988 
+/numPatientDischarges FLU-2018 27-10-2000 31-12-2008  
+/numPatientAdmissions SARS-1 23-06-1985 30-06-1990  
+/diseaseFrequency MERS-COV 08-07-1901 29-05-1905 Spain 
+/numPatientAdmissions MERS-COV 15-02-1948 23-07-1960  
+/searchPatientRecord 1286 
+/topk-AgeRanges 2 Germany EVD 11-12-1984 31-05-1991 

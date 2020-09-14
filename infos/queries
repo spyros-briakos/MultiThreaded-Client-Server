@@ -1,0 +1,15 @@
+/diseaseFrequency EVD 04-06-1900 06-06-2020
+/diseaseFrequency SARSCOV-2 09-10-1900 11-10-2020 India
+/diseaseFrequency COVID-2019 09-11-1900 11-11-2020 Australia
+/topk-AgeRanges 2 Argentina MERS-COV 26-06-1900 28-06-2020
+/topk-AgeRanges 1 Greece COVID-2019 22-11-2012 22-11-2012
+/topk-AgeRanges 0 Australia COVID-2019 22-11-1900 22-11-2020
+/searchPatientRecord 12
+/searchPatientRecord 90
+/searchPatientRecord reco1
+/numPatientAdmissions FLU-2018 13-04-2006 14-04-2006 USA
+/numPatientAdmissions FLU-2018 10-10-1900 10-10-2020
+/numPatientAdmissions INVALID-DISEASE 09-05-2005 09-05-2007
+/numPatientDischarges FLU-2018 10-10-1990 10-10-2009
+/numPatientDischarges FLU-2018 09-03-1983 09-03-1983 Greece
+/numPatientDischarges FLU-2018 09-03-1900 09/03/2020

@@ -1,0 +1,18 @@
+/topk-AgeRanges 4 Spain COVID-2019 12-07-2019 12-07-2019
+/topk-AgeRanges 4 Spain FLU-2018 12-07-2019 12-07-2019
+/topk-AgeRanges 4 Sweden MERS-COV 27-02-2013 27-02-2013
+/topk-AgeRanges 4 Sweden SARSCOV-2 27-02-2013 27-02-2013
+/numPatientAdmissions COVID-2019 12-07-2019 12-07-2019
+/numPatientAdmissions COVID-2019 12-07-2019 12-07-2019 Spain
+/numPatientAdmissions FLU-2018 12-07-2019 12-07-2019
+/numPatientAdmissions FLU-2018 12-07-2019 12-07-2019 Spain
+/numPatientAdmissions MERS-COV 27-02-2013 27-02-2013
+/numPatientAdmissions MERS-COV 27-02-2013 27-02-2013 Sweden
+/numPatientAdmissions SARSCOV-2 27-02-2013 27-02-2013
+/numPatientAdmissions SARSCOV-2 27-02-2013 27-02-2013 Sweden
+/numPatientAdmissions ERROR
+/numPatientDischarges COVID-2019 17-12-2002 17-12-2002
+/numPatientDischarges COVID-2019 17-12-2002 17-12-2002 Greece
+/numPatientDischarges MERS-COV 17-12-2002 17-12-2002
+/numPatientDischarges MERS-COV 17-12-2002 17-12-2002 Greece
+/numPatientDischarges ERROR
